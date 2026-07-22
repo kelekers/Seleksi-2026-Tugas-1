@@ -1,0 +1,222 @@
+[
+    {
+        "location_name":"Pedurenan, Bekasi",
+        "city":"Bekasi",
+        "district":"Pedurenan"
+    },
+    {
+        "location_name":"Tajur Halang, Bogor",
+        "city":"Bogor",
+        "district":"Tajur Halang"
+    },
+    {
+        "location_name":"Kelapa Dua, Depok",
+        "city":"Depok",
+        "district":"Kelapa Dua"
+    },
+    {
+        "location_name":"Ciledug, Tangerang",
+        "city":"Tangerang",
+        "district":"Ciledug"
+    },
+    {
+        "location_name":"Pantai Indah Kapuk, Jakarta Utara",
+        "city":"Jakarta Utara",
+        "district":"Pantai Indah Kapuk"
+    },
+    {
+        "location_name":"Cipete, Jakarta Selatan",
+        "city":"Jakarta Selatan",
+        "district":"Cipete"
+    },
+    {
+        "location_name":"Harjamukti, Bogor",
+        "city":"Bogor",
+        "district":"Harjamukti"
+    },
+    {
+        "location_name":"Jatibening, Bekasi",
+        "city":"Bekasi",
+        "district":"Jatibening"
+    },
+    {
+        "location_name":"Citraland, Surabaya",
+        "city":"Surabaya",
+        "district":"Citraland"
+    },
+    {
+        "location_name":"Senopati, Jakarta Selatan",
+        "city":"Jakarta Selatan",
+        "district":"Senopati"
+    },
+    {
+        "location_name":"Cinere, Depok",
+        "city":"Depok",
+        "district":"Cinere"
+    },
+    {
+        "location_name":"Taman Ratu, Jakarta Barat",
+        "city":"Jakarta Barat",
+        "district":"Taman Ratu"
+    },
+    {
+        "location_name":"Meruya, Jakarta Barat",
+        "city":"Jakarta Barat",
+        "district":"Meruya"
+    },
+    {
+        "location_name":"Kelapa Gading, Jakarta Utara",
+        "city":"Jakarta Utara",
+        "district":"Kelapa Gading"
+    },
+    {
+        "location_name":"Tabanan, Tabanan",
+        "city":"Tabanan",
+        "district":"Tabanan"
+    },
+    {
+        "location_name":"Koja, Jakarta Utara",
+        "city":"Jakarta Utara",
+        "district":"Koja"
+    },
+    {
+        "location_name":"Kebon Jeruk, Jakarta Barat",
+        "city":"Jakarta Barat",
+        "district":"Kebon Jeruk"
+    },
+    {
+        "location_name":"Kuningan, Jakarta Selatan",
+        "city":"Jakarta Selatan",
+        "district":"Kuningan"
+    },
+    {
+        "location_name":"Gandaria, Jakarta Selatan",
+        "city":"Jakarta Selatan",
+        "district":"Gandaria"
+    },
+    {
+        "location_name":"Duri Kepa, Jakarta Barat",
+        "city":"Jakarta Barat",
+        "district":"Duri Kepa"
+    },
+    {
+        "location_name":"Surabaya Kota, Surabaya",
+        "city":"Surabaya",
+        "district":"Surabaya Kota"
+    },
+    {
+        "location_name":"Sunter, Jakarta Utara",
+        "city":"Jakarta Utara",
+        "district":"Sunter"
+    },
+    {
+        "location_name":"Tomang, Jakarta Barat",
+        "city":"Jakarta Barat",
+        "district":"Tomang"
+    },
+    {
+        "location_name":"Jelambar, Jakarta Barat",
+        "city":"Jakarta Barat",
+        "district":"Jelambar"
+    },
+    {
+        "location_name":"Unknown Location",
+        "city":"Unknown Location",
+        "district":"Unknown"
+    },
+    {
+        "location_name":"Pakuwon, Surabaya",
+        "city":"Surabaya",
+        "district":"Pakuwon"
+    },
+    {
+        "location_name":"Cakung, Jakarta Timur",
+        "city":"Jakarta Timur",
+        "district":"Cakung"
+    },
+    {
+        "location_name":"Canggu, Badung",
+        "city":"Badung",
+        "district":"Canggu"
+    },
+    {
+        "location_name":"Alam Sutera, Tangerang",
+        "city":"Tangerang",
+        "district":"Alam Sutera"
+    },
+    {
+        "location_name":"Tebet, Jakarta Selatan",
+        "city":"Jakarta Selatan",
+        "district":"Tebet"
+    },
+    {
+        "location_name":"Puri Indah, Jakarta Barat",
+        "city":"Jakarta Barat",
+        "district":"Puri Indah"
+    },
+    {
+        "location_name":"Sawangan, Depok",
+        "city":"Depok",
+        "district":"Sawangan"
+    },
+    {
+        "location_name":"Alam Sutera 2, Tangerang",
+        "city":"Tangerang",
+        "district":"Alam Sutera 2"
+    },
+    {
+        "location_name":"Green Lake City, Jakarta Barat",
+        "city":"Jakarta Barat",
+        "district":"Green Lake City"
+    },
+    {
+        "location_name":"Cimanggis, Depok",
+        "city":"Depok",
+        "district":"Cimanggis"
+    },
+    {
+        "location_name":"Kemanggisan, Jakarta Barat",
+        "city":"Jakarta Barat",
+        "district":"Kemanggisan"
+    },
+    {
+        "location_name":"Pondok Indah, Jakarta Selatan",
+        "city":"Jakarta Selatan",
+        "district":"Pondok Indah"
+    },
+    {
+        "location_name":"Kemang, Jakarta Selatan",
+        "city":"Jakarta Selatan",
+        "district":"Kemang"
+    },
+    {
+        "location_name":"Jagakarsa, Jakarta Selatan",
+        "city":"Jakarta Selatan",
+        "district":"Jagakarsa"
+    },
+    {
+        "location_name":"Pejaten, Jakarta Selatan",
+        "city":"Jakarta Selatan",
+        "district":"Pejaten"
+    },
+    {
+        "location_name":"Gading Serpong, Tangerang",
+        "city":"Tangerang",
+        "district":"Gading Serpong"
+    },
+    {
+        "location_name":"BSD City, Tangerang",
+        "city":"Tangerang",
+        "district":"BSD City"
+    },
+    {
+        "location_name":"Cipayung, Jakarta Timur",
+        "city":"Jakarta Timur",
+        "district":"Cipayung"
+    },
+    {
+        "location_name":"Bandung Kota, Bandung",
+        "city":"Bandung",
+        "district":"Bandung Kota"
+    }
+]
