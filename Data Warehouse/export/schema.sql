@@ -34,7 +34,8 @@ CREATE TABLE properties (
     facilities_count INT DEFAULT 0,
     category_id INT REFERENCES categories(category_id) ON DELETE RESTRICT,
     location_id INT REFERENCES locations(location_id) ON DELETE SET NULL,
-    agent_id INT REFERENCES agents(agent_id) ON DELETE SET NULL
+    agent_id INT REFERENCES agents(agent_id) ON DELETE SET NULL,
+    extracted_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
 -- 5. Tabel Dimensi: Tags

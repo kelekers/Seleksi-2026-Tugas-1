@@ -1,416 +1,77 @@
 [
     {
-        "raw_location": "Kelapa Gading, Jakarta Utara"
-    },
-    {
         "raw_location": "Sunter, Jakarta Utara"
     },
     {
-        "raw_location": "Pantai Indah Kapuk 2, Jakarta Utara"
+        "raw_location": "Cibitung, Bekasi"
     },
     {
-        "raw_location": "Green Lake City, Jakarta Barat"
-    },
-    {
-        "raw_location": "Gading Serpong, Tangerang"
-    },
-    {
-        "raw_location": "Mangga Besar, Jakarta Barat"
-    },
-    {
-        "raw_location": "Bintaro, Tangerang Selatan"
-    },
-    {
-        "raw_location": "Pantai Indah Kapuk, Jakarta Utara"
-    },
-    {
-        "raw_location": "BSD City, Tangerang"
-    },
-    {
-        "raw_location": "Tangerang, Tangerang"
-    },
-    {
-        "raw_location": "Rungkut, Surabaya"
-    },
-    {
-        "raw_location": "Tomang, Jakarta Barat"
-    },
-    {
-        "raw_location": "Jelambar, Jakarta Barat"
-    },
-    {
-        "raw_location": "Unknown Location"
-    },
-    {
-        "raw_location": "Cempaka Putih, Jakarta Pusat"
-    },
-    {
-        "raw_location": "Kemayoran, Jakarta Pusat"
-    },
-    {
-        "raw_location": "Kuningan, Jakarta Selatan"
-    },
-    {
-        "raw_location": "Tamansari, Jakarta Barat"
-    },
-    {
-        "raw_location": "BSD, Tangerang"
-    },
-    {
-        "raw_location": "BSD, Tangerang Selatan"
-    },
-    {
-        "raw_location": "Alam Sutera, Tangerang"
-    },
-    {
-        "raw_location": "Permata Buana, Jakarta Barat"
-    },
-    {
-        "raw_location": "Serpong, Tangerang Selatan"
-    },
-    {
-        "raw_location": "Pluit, Jakarta Utara"
-    },
-    {
-        "raw_location": "Summarecon Bogor, Bogor"
-    },
-    {
-        "raw_location": "Cakung, Jakarta Timur"
-    },
-    {
-        "raw_location": "Dramaga, Bogor"
-    },
-    {
-        "raw_location": "Golf Island, Jakarta Utara"
-    },
-    {
-        "raw_location": "Kemang, Jakarta Selatan"
-    },
-    {
-        "raw_location": "Sudirman, Jakarta Selatan"
-    },
-    {
-        "raw_location": "Tanjung Duren, Jakarta Barat"
-    },
-    {
-        "raw_location": "Wiyung, Surabaya"
-    },
-    {
-        "raw_location": "Pasar Minggu, Jakarta Selatan"
-    },
-    {
-        "raw_location": "Sawangan, Depok"
-    },
-    {
-        "raw_location": "Jagakarsa, Jakarta Selatan"
-    },
-    {
-        "raw_location": "Pancoran Mas, Depok"
-    },
-    {
-        "raw_location": "Cinere, Depok"
-    },
-    {
-        "raw_location": "Cibubur, Jakarta Timur"
-    },
-    {
-        "raw_location": "Kebayoran Baru, Jakarta Selatan"
-    },
-    {
-        "raw_location": "Wisata Bukit Mas, Surabaya"
-    },
-    {
-        "raw_location": "Balikpapan Kota, Balikpapan"
-    },
-    {
-        "raw_location": "Cinere, Jakarta Selatan"
-    },
-    {
-        "raw_location": "Balikpapan Tengah, Balikpapan"
-    },
-    {
-        "raw_location": "Pakuwon City, Surabaya"
-    },
-    {
-        "raw_location": "Balikpapan Baru, Balikpapan"
-    },
-    {
-        "raw_location": "Cipete, Jakarta Selatan"
-    },
-    {
-        "raw_location": "Pamulang, Tangerang Selatan"
-    },
-    {
-        "raw_location": "Pondok Indah, Jakarta Selatan"
-    },
-    {
-        "raw_location": "Balikpapan Barat, Balikpapan"
-    },
-    {
-        "raw_location": "BSD Giri Loka, Tangerang"
-    },
-    {
-        "raw_location": "Samarinda Ulu, Samarinda"
-    },
-    {
-        "raw_location": "Cilandak, Jakarta Selatan"
-    },
-    {
-        "raw_location": "Dharma Husada, Surabaya"
-    },
-    {
-        "raw_location": "Taman Anggrek, Jakarta Barat"
-    },
-    {
-        "raw_location": "Surabaya Kota, Surabaya"
-    },
-    {
-        "raw_location": "Legenda Wisata, Bogor"
-    },
-    {
-        "raw_location": "Menteng, Jakarta Pusat"
-    },
-    {
-        "raw_location": "Pesanggrahan, Jakarta Selatan"
-    },
-    {
-        "raw_location": "Sentul City, Bogor"
-    },
-    {
-        "raw_location": "Gading Serpong Cluster Michelia, Tangerang"
-    },
-    {
-        "raw_location": "Galaxy, Surabaya"
-    },
-    {
-        "raw_location": "Harapan Indah, Bekasi"
-    },
-    {
-        "raw_location": "Lebak Bulus, Jakarta Selatan"
-    },
-    {
-        "raw_location": "Samarinda Utara, Samarinda"
+        "raw_location": "Cikarang, Bekasi"
     },
     {
         "raw_location": "Puri Indah, Jakarta Barat"
     },
     {
-        "raw_location": "Duri Kepa, Jakarta Barat"
+        "raw_location": "BSD Residence One, Tangerang"
     },
     {
-        "raw_location": "Kebon Jeruk, Jakarta Barat"
+        "raw_location": "Serpong, Tangerang Selatan"
     },
     {
-        "raw_location": "Pedurenan, Bekasi"
+        "raw_location": "Balikpapan Tengah, Balikpapan"
     },
     {
-        "raw_location": "Tajur Halang, Bogor"
+        "raw_location": "Delta Mas, Bekasi"
     },
     {
-        "raw_location": "Kelapa Dua, Depok"
-    },
-    {
-        "raw_location": "Ciledug, Tangerang"
-    },
-    {
-        "raw_location": "Harjamukti, Bogor"
-    },
-    {
-        "raw_location": "Jatibening, Bekasi"
+        "raw_location": "BSD Puspita Loka, Tangerang"
     },
     {
         "raw_location": "Citraland, Surabaya"
     },
     {
-        "raw_location": "Senopati, Jakarta Selatan"
+        "raw_location": "Tembalang, Semarang"
     },
     {
-        "raw_location": "Taman Ratu, Jakarta Barat"
+        "raw_location": "Pantai Indah Kapuk, Jakarta Utara"
     },
     {
-        "raw_location": "Meruya, Jakarta Barat"
+        "raw_location": "Pantai Indah Kapuk 2, Jakarta Utara"
     },
     {
-        "raw_location": "Tabanan, Tabanan"
+        "raw_location": "Tanjung Duren, Jakarta Barat"
     },
     {
-        "raw_location": "Koja, Jakarta Utara"
+        "raw_location": "Kemang, Jakarta Selatan"
     },
     {
-        "raw_location": "Gandaria, Jakarta Selatan"
-    },
-    {
-        "raw_location": "Pakuwon, Surabaya"
-    },
-    {
-        "raw_location": "Canggu, Badung"
-    },
-    {
-        "raw_location": "Tebet, Jakarta Selatan"
-    },
-    {
-        "raw_location": "Alam Sutera 2, Tangerang"
-    },
-    {
-        "raw_location": "Cimanggis, Depok"
-    },
-    {
-        "raw_location": "Kemanggisan, Jakarta Barat"
-    },
-    {
-        "raw_location": "Pejaten, Jakarta Selatan"
-    },
-    {
-        "raw_location": "Cipayung, Jakarta Timur"
-    },
-    {
-        "raw_location": "Bandung Kota, Bandung"
-    },
-    {
-        "raw_location": "Citra Garden, Jakarta Barat"
-    },
-    {
-        "raw_location": "Cisauk, Tangerang"
-    },
-    {
-        "raw_location": "Intercon, Jakarta Barat"
-    },
-    {
-        "raw_location": "Daan Mogot, Jakarta Barat"
-    },
-    {
-        "raw_location": "BSD Foresta, Tangerang"
-    },
-    {
-        "raw_location": "BSD Green Wich, Tangerang"
-    },
-    {
-        "raw_location": "Ancol, Jakarta Utara"
-    },
-    {
-        "raw_location": "Bintaro, Jakarta Selatan"
-    },
-    {
-        "raw_location": "Beji, Depok"
-    },
-    {
-        "raw_location": "Rancamaya, Bogor"
-    },
-    {
-        "raw_location": "Warung Buncit, Jakarta Selatan"
-    },
-    {
-        "raw_location": "Kalibata, Jakarta Selatan"
-    },
-    {
-        "raw_location": "Pondok Pinang, Jakarta Selatan"
-    },
-    {
-        "raw_location": "Tanah Baru, Depok"
-    },
-    {
-        "raw_location": "Cibinong, Bogor"
-    },
-    {
-        "raw_location": "Bekasi Utara, Bekasi"
-    },
-    {
-        "raw_location": "Semen, Kediri"
-    },
-    {
-        "raw_location": "Ngaglik, Sleman"
-    },
-    {
-        "raw_location": "Mekarsari, Depok"
-    },
-    {
-        "raw_location": "Sanur, Denpasar"
-    },
-    {
-        "raw_location": "Semarang Barat, Semarang"
-    },
-    {
-        "raw_location": "Antapani, Bandung"
-    },
-    {
-        "raw_location": "Lippo Karawaci, Tangerang"
-    },
-    {
-        "raw_location": "Karawaci, Tangerang"
-    },
-    {
-        "raw_location": "Puncak, Bogor"
-    },
-    {
-        "raw_location": "Fatmawati, Jakarta Selatan"
+        "raw_location": "Cempaka Putih, Jakarta Pusat"
     },
     {
         "raw_location": "Matraman, Jakarta Timur"
     },
     {
-        "raw_location": "Muara Karang, Jakarta Utara"
+        "raw_location": "Batutulis, Jakarta Pusat"
     },
     {
-        "raw_location": "Cengkareng, Jakarta Barat"
+        "raw_location": "Bintaro, Tangerang Selatan"
     },
     {
-        "raw_location": "Sektor 9-Bintaro, Tangerang Selatan"
+        "raw_location": "Tebet, Jakarta Selatan"
     },
     {
-        "raw_location": "Joglo, Jakarta Barat"
+        "raw_location": "BSD, Tangerang"
     },
     {
-        "raw_location": "Kelapa Dua, Tangerang"
+        "raw_location": "Balikpapan Baru, Balikpapan"
     },
     {
-        "raw_location": "Metland Puri, Jakarta Barat"
+        "raw_location": "BSD City, Tangerang"
     },
     {
-        "raw_location": "Godean, Sleman"
+        "raw_location": "Alam Sutera, Tangerang"
     },
     {
-        "raw_location": "Ungasan, Badung"
-    },
-    {
-        "raw_location": "Sutera Buana Alam Sutera, Tangerang"
-    },
-    {
-        "raw_location": "Pulomas, Jakarta Timur"
-    },
-    {
-        "raw_location": "Bekasi Selatan, Bekasi"
-    },
-    {
-        "raw_location": "Casablanca, Jakarta Selatan"
-    },
-    {
-        "raw_location": "Dago, Bandung"
-    },
-    {
-        "raw_location": "BSD Delatinos, Tangerang"
-    },
-    {
-        "raw_location": "Sawah Besar, Jakarta Pusat"
-    },
-    {
-        "raw_location": "Cipinang, Jakarta Timur"
-    },
-    {
-        "raw_location": "Percetakan Negara, Jakarta Pusat"
-    },
-    {
-        "raw_location": "Setiabudi, Jakarta Selatan"
-    },
-    {
-        "raw_location": "Cileungsi, Bogor"
-    },
-    {
-        "raw_location": "Pantai Mutiara, Jakarta Utara"
-    },
-    {
-        "raw_location": "Tegalrejo, Yogyakarta"
-    },
-    {
-        "raw_location": "Kembangan, Jakarta Barat"
+        "raw_location": "Kota Wisata, Bogor"
     }
 ]
