@@ -1,50 +1,80 @@
 [
     {
-        "tag_name": "Dekat Akses Transportasi"
-    },
-    {
-        "tag_name": "Bisa Nego"
-    },
-    {
-        "tag_name": "Bebas Banjir"
-    },
-    {
-        "tag_name": "Furnished"
-    },
-    {
-        "tag_name": "Baru Renov"
-    },
-    {
-        "tag_name": "Dekat Fasilitas Kesehatan"
+        "tag_name": "AYDA"
     },
     {
         "tag_name": "Baru Dibangun"
     },
     {
-        "tag_name": "NJOP"
+        "tag_name": "Baru Renov"
     },
     {
-        "tag_name": "Subsidi"
+        "tag_name": "Bebas Banjir"
     },
     {
-        "tag_name": "Siap Huni"
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "tag_name": "Clean & Clear"
+    },
+    {
+        "tag_name": "Cocok untuk kost"
+    },
+    {
+        "tag_name": "Cocok untuk usaha"
+    },
+    {
+        "tag_name": "DP 0%"
+    },
+    {
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "tag_name": "Dekat Fasilitas Kesehatan"
     },
     {
         "tag_name": "Dekat Landmark"
     },
     {
-        "tag_name": "Dekat Tempat Ibadah"
+        "tag_name": "Dekat Pusat Perbelanjaan"
     },
     {
         "tag_name": "Dekat Sekolah"
     },
     {
+        "tag_name": "Dekat Tebing Pantai Balangan"
+    },
+    {
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "tag_name": "Dekat Tempat Wisata"
+    },
+    {
+        "tag_name": "Furnished"
+    },
+    {
+        "tag_name": "KPR Express"
+    },
+    {
+        "tag_name": "NJOP"
+    },
+    {
+        "tag_name": "Over Kredit"
+    },
+    {
         "tag_name": "Semi Furnished"
     },
     {
-        "tag_name": "Dekat Pusat Perbelanjaan"
+        "tag_name": "Siap Huni"
     },
     {
-        "tag_name": "DP 0%"
+        "tag_name": "Subsidi"
+    },
+    {
+        "tag_name": "Syariah"
+    },
+    {
+        "tag_name": "Unfurnished"
     }
 ]

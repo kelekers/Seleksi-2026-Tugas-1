@@ -9,7 +9,48 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 
-def scrape_rumah123(total_pages=4):
+def normalize_phone_prefix(raw_text):
+    if not raw_text:
+        return "Not Available"
+
+    text = re.sub(r'\s+', ' ', raw_text).strip()
+    masked_match = re.search(r'(\+?\d[\d\s().-]*\.\.\.)', text)
+    if masked_match:
+        prefix = masked_match.group(1).replace('...', '')
+        prefix = re.sub(r'[^\d+]', '', prefix)
+        if prefix.startswith('62'):
+            prefix = f"+{prefix}"
+        return f"{prefix}..."
+
+    phone_match = re.search(r'(\+?\d[\d\s().-]{4,}\d)', text)
+    if not phone_match:
+        return "Not Available"
+
+    digits = re.sub(r'\D', '', phone_match.group(1))
+    if not digits:
+        return "Not Available"
+
+    prefix = digits[:6]
+    if digits.startswith('62'):
+        return f"+{prefix}..."
+    return f"{prefix}..."
+
+def extract_phone_prefix(card):
+    phone_button = card.find(attrs={"data-test-id": "srp-card-enquiry-phone"})
+    phone_prefix = normalize_phone_prefix(phone_button.get_text(" ", strip=True)) if phone_button else "Not Available"
+    if phone_prefix != "Not Available":
+        return phone_prefix
+
+    phone_link = card.find('a', href=re.compile(r'wa\.me|whatsapp', re.IGNORECASE))
+    if phone_link:
+        href = phone_link.get('href', '')
+        phone_match = re.search(r'(?:phone=|wa\.me/)(\+?\d+)', href)
+        if phone_match:
+            return normalize_phone_prefix(phone_match.group(1))
+
+    return "Not Available"
+
+def scrape_rumah123(total_pages=35):
     options = Options()
     options.add_argument("--disable-gpu")
     options.add_argument("--window-size=1920x1080")
@@ -20,7 +61,6 @@ def scrape_rumah123(total_pages=4):
     raw_properties = []
     raw_locations = []
     raw_agents = []
-    raw_facilities = []
     
     visited_locations = set()
     visited_agents = set()
@@ -85,12 +125,7 @@ def scrape_rumah123(total_pages=4):
             agent_node = card.find(attrs={"data-test-id": "srp-card-agent-name"})
             agent_name = agent_node.text.strip() if agent_node else "Independent Agent"
 
-            agent_phone = "Not Available"
-            phone_link = card.find('a', href=re.compile(r'wa\.me|whatsapp'))
-            if phone_link:
-                phone_match = re.search(r'phone=(\d+)', phone_link.get('href', ''))
-                if phone_match:
-                    agent_phone = phone_match.group(1)
+            agent_phone_prefix = extract_phone_prefix(card)
 
             bedrooms = "0"
             bathrooms = "0"
@@ -154,12 +189,12 @@ def scrape_rumah123(total_pages=4):
                 if agent_name not in visited_agents:
                     raw_agents.append({
                         "agent_name": agent_name,
-                        "raw_phone_number": agent_phone
+                        "raw_phone_prefix": agent_phone_prefix
                     })
                     visited_agents.add(agent_name)
 
     driver.quit()
-    return raw_properties, raw_locations, raw_agents, raw_facilities
+    return raw_properties, raw_locations, raw_agents
 
 def export_to_json(data_list, file_name):
     target_directory = '../data'
@@ -169,9 +204,8 @@ def export_to_json(data_list, file_name):
         json.dump(data_list, file_object, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
-    properties, locations, agents, facilities = scrape_rumah123(total_pages=4) 
+    properties, locations, agents = scrape_rumah123(total_pages=35) 
     
     export_to_json(properties, 'raw_properties.json')
     export_to_json(locations, 'raw_locations.json')
     export_to_json(agents, 'raw_agents.json')
-    export_to_json(facilities, 'raw_facilities.json')

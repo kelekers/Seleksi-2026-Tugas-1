@@ -43,7 +43,7 @@ def parse_rooms(room_str):
         return 0
 
 def process_data():
-    with open('../data/raw_properties.json', 'r', encoding='utf-8') as f:
+    with open('../data/raw_properties.json', 'r', encoding='utf-8-sig') as f:
         props = json.load(f)
     
     df_props = pd.DataFrame(props)
@@ -60,6 +60,17 @@ def process_data():
     df_props['bathrooms'] = df_props['raw_bathrooms'].apply(parse_rooms)
     df_props['garages'] = df_props['raw_garages'].apply(parse_rooms)
     df_props['facilities_count'] = df_props['total_facilities'].apply(parse_area)
+
+    if 'category' not in df_props.columns:
+        df_props['category'] = 'Unknown'
+    df_props['category_name'] = df_props['category'].fillna('Unknown').astype(str).str.strip()
+    df_props.loc[df_props['category_name'] == '', 'category_name'] = 'Unknown'
+    df_categories_clean = (
+        df_props[['category_name']]
+        .drop_duplicates(subset=['category_name'])
+        .sort_values('category_name')
+        .reset_index(drop=True)
+    )
     
     tags_data = []
     property_tags_mapping = []
@@ -77,15 +88,15 @@ def process_data():
                     "tag_name": clean_tag
                 })
                 
-    for tag in unique_tags:
+    for tag in sorted(unique_tags):
         tags_data.append({"tag_name": tag})
         
-    df_props_clean = df_props[['property_id', 'title', 'category', 'price', 'installment_15y', 'installment_20y', 
+    df_props_clean = df_props[['property_id', 'title', 'category_name', 'price', 'installment_15y', 'installment_20y', 
                                'raw_location', 'bedrooms', 'bathrooms', 'garages', 'building_area', 'land_area', 
                                'facilities_count', 'agent_name']]
     df_props_clean = df_props_clean.rename(columns={'raw_location': 'location_name'})
     
-    with open('../data/raw_locations.json', 'r', encoding='utf-8') as f:
+    with open('../data/raw_locations.json', 'r', encoding='utf-8-sig') as f:
         locs = json.load(f)
     df_locs = pd.DataFrame(locs)
     df_locs['city'] = df_locs['raw_location'].apply(lambda x: x.split(',')[-1].strip() if ',' in x else x)
@@ -93,13 +104,17 @@ def process_data():
     df_locs_clean = df_locs[['raw_location', 'city', 'district']].rename(columns={'raw_location': 'location_name'})
     df_locs_clean = df_locs_clean.drop_duplicates(subset=['location_name'])
     
-    with open('../data/raw_agents.json', 'r', encoding='utf-8') as f:
+    with open('../data/raw_agents.json', 'r', encoding='utf-8-sig') as f:
         agents = json.load(f)
     df_agents = pd.DataFrame(agents)
-    df_agents_clean = df_agents.rename(columns={'raw_phone_number': 'phone_number'})
+    if 'raw_phone_prefix' not in df_agents.columns:
+        df_agents['raw_phone_prefix'] = df_agents.get('raw_phone_number', 'Not Available')
+
+    df_agents_clean = df_agents[['agent_name', 'raw_phone_prefix']].rename(columns={'raw_phone_prefix': 'phone_prefix'})
     df_agents_clean = df_agents_clean.drop_duplicates(subset=['agent_name'])
 
     df_props_clean.to_json('../data/clean_properties.json', orient='records', indent=4, force_ascii=False)
+    df_categories_clean.to_json('../data/clean_categories.json', orient='records', indent=4, force_ascii=False)
     df_locs_clean.to_json('../data/clean_locations.json', orient='records', indent=4, force_ascii=False)
     df_agents_clean.to_json('../data/clean_agents.json', orient='records', indent=4, force_ascii=False)
     

@@ -1,582 +1,5230 @@
 [
     {
-        "property_id": "0be0851c",
-        "tag_name": "Siap Huni"
+        "property_id": "c7b836e4",
+        "tag_name": "Dekat Fasilitas Kesehatan"
     },
     {
-        "property_id": "0be0851c",
+        "property_id": "d2a74fc6",
         "tag_name": "Dekat Akses Transportasi"
     },
     {
-        "property_id": "ffa02c0f",
-        "tag_name": "Dekat Akses Transportasi"
+        "property_id": "d2a74fc6",
+        "tag_name": "Dekat Sekolah"
     },
     {
-        "property_id": "ffa02c0f",
+        "property_id": "d2a74fc6",
+        "tag_name": "AYDA"
+    },
+    {
+        "property_id": "a3f6baa4",
+        "tag_name": "KPR Express"
+    },
+    {
+        "property_id": "c388166e",
         "tag_name": "Baru Renov"
     },
     {
-        "property_id": "950f1df0",
-        "tag_name": "Siap Huni"
+        "property_id": "732e473b",
+        "tag_name": "Bebas Banjir"
     },
     {
-        "property_id": "950f1df0",
+        "property_id": "732e473b",
         "tag_name": "Dekat Akses Transportasi"
     },
     {
-        "property_id": "950f1df0",
-        "tag_name": "Dekat Pusat Perbelanjaan"
-    },
-    {
-        "property_id": "950f1df0",
-        "tag_name": "Dekat Sekolah"
-    },
-    {
-        "property_id": "950f1df0",
+        "property_id": "732e473b",
         "tag_name": "Dekat Fasilitas Kesehatan"
     },
     {
-        "property_id": "65b464cd",
+        "property_id": "a2010075",
         "tag_name": "Siap Huni"
     },
     {
-        "property_id": "65b464cd",
+        "property_id": "a2010075",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "a2010075",
         "tag_name": "Dekat Akses Transportasi"
     },
     {
-        "property_id": "133c9f8e",
-        "tag_name": "Furnished"
+        "property_id": "a2010075",
+        "tag_name": "Dekat Sekolah"
     },
     {
-        "property_id": "133c9f8e",
+        "property_id": "a2010075",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "3a2516b8",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "3a2516b8",
         "tag_name": "Siap Huni"
     },
     {
-        "property_id": "133c9f8e",
+        "property_id": "3a2516b8",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "3a2516b8",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "3a2516b8",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "3a2516b8",
+        "tag_name": "Baru Renov"
+    },
+    {
+        "property_id": "1ba3e66c",
         "tag_name": "Dekat Akses Transportasi"
     },
     {
-        "property_id": "35b4556d",
-        "tag_name": "Dekat Akses Transportasi"
+        "property_id": "1ba3e66c",
+        "tag_name": "Dekat Fasilitas Kesehatan"
     },
     {
-        "property_id": "35b4556d",
+        "property_id": "ef3bb549",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "ef3bb549",
         "tag_name": "Dekat Landmark"
     },
     {
-        "property_id": "86a61843",
-        "tag_name": "DP 0%"
-    },
-    {
-        "property_id": "86a61843",
-        "tag_name": "Siap Huni"
-    },
-    {
-        "property_id": "86a61843",
-        "tag_name": "Bebas Banjir"
-    },
-    {
-        "property_id": "86a61843",
-        "tag_name": "Dekat Akses Transportasi"
-    },
-    {
-        "property_id": "86a61843",
-        "tag_name": "Dekat Sekolah"
-    },
-    {
-        "property_id": "86a61843",
-        "tag_name": "Dekat Tempat Ibadah"
-    },
-    {
-        "property_id": "86a61843",
-        "tag_name": "Baru Dibangun"
-    },
-    {
-        "property_id": "2b7982ed",
-        "tag_name": "DP 0%"
-    },
-    {
-        "property_id": "2b7982ed",
-        "tag_name": "Siap Huni"
-    },
-    {
-        "property_id": "2b7982ed",
-        "tag_name": "Bebas Banjir"
-    },
-    {
-        "property_id": "2b7982ed",
-        "tag_name": "Dekat Akses Transportasi"
-    },
-    {
-        "property_id": "2b7982ed",
-        "tag_name": "Dekat Sekolah"
-    },
-    {
-        "property_id": "2b7982ed",
-        "tag_name": "Dekat Tempat Ibadah"
-    },
-    {
-        "property_id": "2b7982ed",
-        "tag_name": "Baru Dibangun"
-    },
-    {
-        "property_id": "d9a67403",
-        "tag_name": "Dekat Sekolah"
-    },
-    {
-        "property_id": "52b1d1e2",
-        "tag_name": "Semi Furnished"
-    },
-    {
-        "property_id": "52b1d1e2",
-        "tag_name": "Dekat Akses Transportasi"
-    },
-    {
-        "property_id": "1a2f02cd",
-        "tag_name": "Bebas Banjir"
-    },
-    {
-        "property_id": "04a93253",
+        "property_id": "8426a606",
         "tag_name": "Bisa Nego"
     },
     {
-        "property_id": "04a93253",
-        "tag_name": "Baru Dibangun"
-    },
-    {
-        "property_id": "740ec8ba",
-        "tag_name": "Bisa Nego"
-    },
-    {
-        "property_id": "06401340",
+        "property_id": "8426a606",
         "tag_name": "Siap Huni"
     },
     {
-        "property_id": "3db64fe0",
-        "tag_name": "Siap Huni"
+        "property_id": "8426a606",
+        "tag_name": "Dekat Akses Transportasi"
     },
     {
-        "property_id": "52a292c1",
-        "tag_name": "Siap Huni"
-    },
-    {
-        "property_id": "2cd2879f",
-        "tag_name": "Bisa Nego"
-    },
-    {
-        "property_id": "2cd2879f",
+        "property_id": "8426a606",
         "tag_name": "Dekat Pusat Perbelanjaan"
     },
     {
-        "property_id": "2cd2879f",
+        "property_id": "8426a606",
         "tag_name": "Dekat Sekolah"
     },
     {
-        "property_id": "bfb8592f",
-        "tag_name": "Furnished"
+        "property_id": "8426a606",
+        "tag_name": "Dekat Fasilitas Kesehatan"
     },
     {
-        "property_id": "bfb8592f",
-        "tag_name": "Siap Huni"
+        "property_id": "8426a606",
+        "tag_name": "Baru Dibangun"
     },
     {
-        "property_id": "bfb8592f",
-        "tag_name": "Bebas Banjir"
-    },
-    {
-        "property_id": "bfb8592f",
-        "tag_name": "Dekat Akses Transportasi"
-    },
-    {
-        "property_id": "bfb8592f",
-        "tag_name": "Dekat Sekolah"
-    },
-    {
-        "property_id": "51d9d29e",
-        "tag_name": "Semi Furnished"
-    },
-    {
-        "property_id": "3f0aff57",
+        "property_id": "227413be",
         "tag_name": "Bisa Nego"
     },
     {
-        "property_id": "edd2b564",
+        "property_id": "a877ae11",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "a877ae11",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "a195c363",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "a195c363",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "a195c363",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "a195c363",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "a195c363",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "eaa31c82",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "42ff835f",
+        "tag_name": "KPR Express"
+    },
+    {
+        "property_id": "42ff835f",
+        "tag_name": "Baru Renov"
+    },
+    {
+        "property_id": "40a72788",
+        "tag_name": "KPR Express"
+    },
+    {
+        "property_id": "dc962143",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "dc962143",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "dc962143",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "a6634a64",
+        "tag_name": "KPR Express"
+    },
+    {
+        "property_id": "c3decebb",
+        "tag_name": "KPR Express"
+    },
+    {
+        "property_id": "52048b21",
+        "tag_name": "KPR Express"
+    },
+    {
+        "property_id": "52048b21",
+        "tag_name": "Baru Renov"
+    },
+    {
+        "property_id": "1ff1e05d",
+        "tag_name": "KPR Express"
+    },
+    {
+        "property_id": "902a0258",
+        "tag_name": "KPR Express"
+    },
+    {
+        "property_id": "d7d10609",
+        "tag_name": "KPR Express"
+    },
+    {
+        "property_id": "d7d10609",
+        "tag_name": "Baru Renov"
+    },
+    {
+        "property_id": "fa21a130",
+        "tag_name": "KPR Express"
+    },
+    {
+        "property_id": "54a42b40",
+        "tag_name": "KPR Express"
+    },
+    {
+        "property_id": "25e26444",
+        "tag_name": "KPR Express"
+    },
+    {
+        "property_id": "25e26444",
+        "tag_name": "Baru Renov"
+    },
+    {
+        "property_id": "57d0b10c",
+        "tag_name": "KPR Express"
+    },
+    {
+        "property_id": "9ed6eeaf",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "9ed6eeaf",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "9ed6eeaf",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "6f81307c",
+        "tag_name": "Syariah"
+    },
+    {
+        "property_id": "6f81307c",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "6f81307c",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "cbe794ed",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "cbe794ed",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "cbe794ed",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "613374b3",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "613374b3",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "613374b3",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "dd7ef11c",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "dd7ef11c",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "dd7ef11c",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "ab09d7c3",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "87aedde5",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "dacd407c",
+        "tag_name": "Semi Furnished"
+    },
+    {
+        "property_id": "dacd407c",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "71adf9d9",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "44591020",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "cf99c376",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "a5b69a58",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "a5b69a58",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "afc679d0",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "afc679d0",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "afc679d0",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "50489fac",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "50d4255c",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "4408dfca",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "8ce11a42",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "107537a9",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "107537a9",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "107537a9",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "107537a9",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "8550de92",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "8550de92",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "8550de92",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "8550de92",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "e1141ee6",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "e1141ee6",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "e1141ee6",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "e1141ee6",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "ffd7d4fd",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "ffd7d4fd",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "ffd7d4fd",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "ffd7d4fd",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "0ba63e3d",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "0ba63e3d",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "0ba63e3d",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "0ba63e3d",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "5bbf8d7a",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "5bbf8d7a",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "5bbf8d7a",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "5bbf8d7a",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "094045f2",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "094045f2",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "094045f2",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "b8149630",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "b8149630",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "b8149630",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "8630b721",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "8630b721",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "8630b721",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "12bcfbd0",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "12bcfbd0",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "12bcfbd0",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "a891cef0",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "1f377a7d",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "1f377a7d",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "1f377a7d",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "d4d2c8e0",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "d4d2c8e0",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "9f10023d",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "9f10023d",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "9f10023d",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "a12fd662",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "fbec6f22",
+        "tag_name": "Semi Furnished"
+    },
+    {
+        "property_id": "c5604bf6",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "c5604bf6",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "c5604bf6",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "07356213",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "c956f930",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "c956f930",
+        "tag_name": "Cocok untuk kost"
+    },
+    {
+        "property_id": "28fcf0f6",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "cddf17f1",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "4f455a10",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "285e3f67",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "da1d4503",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "e4554416",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "7e82aa18",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "25998141",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "2b67a2ed",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "e99ca76f",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "e99ca76f",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "ec6b958e",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "2c643e9d",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "2c643e9d",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "43f54a23",
+        "tag_name": "Unfurnished"
+    },
+    {
+        "property_id": "43f54a23",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "43f54a23",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "43f54a23",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "2738aaaf",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "76bdc4e4",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "76bdc4e4",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "76bdc4e4",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "25481ee2",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "25481ee2",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "25481ee2",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "25481ee2",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "25481ee2",
+        "tag_name": "Baru Dibangun"
+    },
+    {
+        "property_id": "b2f55045",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "b2f55045",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "b2f55045",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "b2f55045",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "b2f55045",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "b2f55045",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "b2f55045",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "b2f55045",
+        "tag_name": "Baru Dibangun"
+    },
+    {
+        "property_id": "1122df2f",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "1122df2f",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "1122df2f",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "1122df2f",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "1122df2f",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "1122df2f",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "1122df2f",
+        "tag_name": "Baru Dibangun"
+    },
+    {
+        "property_id": "90836c17",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "90836c17",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "90836c17",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "90836c17",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "90836c17",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "90836c17",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "90836c17",
+        "tag_name": "Baru Dibangun"
+    },
+    {
+        "property_id": "e9053ac8",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "e9053ac8",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "e9053ac8",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "e9053ac8",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "e9053ac8",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "e9053ac8",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "e9053ac8",
+        "tag_name": "Baru Dibangun"
+    },
+    {
+        "property_id": "7b623618",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "7b623618",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "7b623618",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "7b623618",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "7b623618",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "7b623618",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "7b623618",
+        "tag_name": "Baru Dibangun"
+    },
+    {
+        "property_id": "06df4424",
         "tag_name": "Subsidi"
     },
     {
-        "property_id": "c111c9f0",
-        "tag_name": "Siap Huni"
+        "property_id": "06df4424",
+        "tag_name": "Bebas Banjir"
     },
     {
-        "property_id": "7f7ea0a9",
-        "tag_name": "Bisa Nego"
-    },
-    {
-        "property_id": "7f7ea0a9",
-        "tag_name": "Siap Huni"
-    },
-    {
-        "property_id": "7f7ea0a9",
+        "property_id": "06df4424",
         "tag_name": "Dekat Akses Transportasi"
     },
     {
-        "property_id": "7f7ea0a9",
+        "property_id": "06df4424",
         "tag_name": "Dekat Pusat Perbelanjaan"
     },
     {
-        "property_id": "7f7ea0a9",
-        "tag_name": "Dekat Sekolah"
-    },
-    {
-        "property_id": "7f7ea0a9",
+        "property_id": "06df4424",
         "tag_name": "Dekat Fasilitas Kesehatan"
     },
     {
-        "property_id": "7f7ea0a9",
+        "property_id": "06df4424",
         "tag_name": "Baru Dibangun"
     },
     {
-        "property_id": "37fe080e",
+        "property_id": "7251cabe",
         "tag_name": "Bisa Nego"
     },
     {
-        "property_id": "1b70ebae",
-        "tag_name": "Bisa Nego"
-    },
-    {
-        "property_id": "bd670cf9",
-        "tag_name": "Bisa Nego"
-    },
-    {
-        "property_id": "bd670cf9",
-        "tag_name": "Bebas Banjir"
-    },
-    {
-        "property_id": "56989795",
-        "tag_name": "Bisa Nego"
-    },
-    {
-        "property_id": "56989795",
-        "tag_name": "Siap Huni"
-    },
-    {
-        "property_id": "8d1533f2",
-        "tag_name": "Bisa Nego"
-    },
-    {
-        "property_id": "8d1533f2",
-        "tag_name": "Bebas Banjir"
-    },
-    {
-        "property_id": "bfec37f5",
-        "tag_name": "Bisa Nego"
-    },
-    {
-        "property_id": "5ae4f269",
-        "tag_name": "Bisa Nego"
-    },
-    {
-        "property_id": "5ae4f269",
-        "tag_name": "Dekat Landmark"
-    },
-    {
-        "property_id": "b23eb1e2",
-        "tag_name": "Bisa Nego"
-    },
-    {
-        "property_id": "b23eb1e2",
-        "tag_name": "Siap Huni"
-    },
-    {
-        "property_id": "7a399594",
-        "tag_name": "Bisa Nego"
-    },
-    {
-        "property_id": "19d53a71",
-        "tag_name": "Dekat Sekolah"
-    },
-    {
-        "property_id": "08b81cd8",
-        "tag_name": "Dekat Sekolah"
-    },
-    {
-        "property_id": "4baa4f22",
-        "tag_name": "Dekat Akses Transportasi"
-    },
-    {
-        "property_id": "4baa4f22",
+        "property_id": "7251cabe",
         "tag_name": "Dekat Pusat Perbelanjaan"
     },
     {
-        "property_id": "4baa4f22",
+        "property_id": "7251cabe",
         "tag_name": "Dekat Sekolah"
     },
     {
-        "property_id": "4baa4f22",
-        "tag_name": "Dekat Fasilitas Kesehatan"
+        "property_id": "1a2f1a9b",
+        "tag_name": "Siap Huni"
     },
     {
-        "property_id": "4baa4f22",
+        "property_id": "1a2f1a9b",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "1a2f1a9b",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "1a2f1a9b",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "1a2f1a9b",
         "tag_name": "Dekat Tempat Ibadah"
     },
     {
-        "property_id": "b7bac7c7",
-        "tag_name": "Dekat Akses Transportasi"
+        "property_id": "576b0ed1",
+        "tag_name": "Unfurnished"
     },
     {
-        "property_id": "b7bac7c7",
+        "property_id": "576b0ed1",
         "tag_name": "Dekat Sekolah"
     },
     {
-        "property_id": "d2935789",
-        "tag_name": "Furnished"
-    },
-    {
-        "property_id": "015a866e",
-        "tag_name": "Bisa Nego"
-    },
-    {
-        "property_id": "015a866e",
-        "tag_name": "Siap Huni"
-    },
-    {
-        "property_id": "26d161ac",
-        "tag_name": "Bebas Banjir"
-    },
-    {
-        "property_id": "26d161ac",
-        "tag_name": "Dekat Akses Transportasi"
-    },
-    {
-        "property_id": "26d161ac",
-        "tag_name": "Dekat Fasilitas Kesehatan"
-    },
-    {
-        "property_id": "464a6347",
-        "tag_name": "Siap Huni"
-    },
-    {
-        "property_id": "82876c91",
+        "property_id": "fdbb0d19",
         "tag_name": "Dekat Sekolah"
     },
     {
-        "property_id": "9e242a01",
-        "tag_name": "Siap Huni"
-    },
-    {
-        "property_id": "9e242a01",
+        "property_id": "5ee5c5c8",
         "tag_name": "Dekat Akses Transportasi"
     },
     {
-        "property_id": "9e242a01",
+        "property_id": "5ee5c5c8",
         "tag_name": "Dekat Pusat Perbelanjaan"
     },
     {
-        "property_id": "69bfea2c",
+        "property_id": "5ee5c5c8",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "fe4342ab",
         "tag_name": "Siap Huni"
     },
     {
-        "property_id": "69bfea2c",
+        "property_id": "e8c8d532",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "e8c8d532",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "e8c8d532",
         "tag_name": "Dekat Akses Transportasi"
     },
     {
-        "property_id": "69bfea2c",
-        "tag_name": "Baru Dibangun"
+        "property_id": "e5060179",
+        "tag_name": "Dekat Fasilitas Kesehatan"
     },
     {
-        "property_id": "00d4cada",
+        "property_id": "fa425a3f",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "fa425a3f",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "3dfedc0f",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "9b8d84e6",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "de46e416",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "c7662ee9",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "c7662ee9",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "eeef6d5d",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "d200f672",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "d200f672",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "c9910079",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "c9910079",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "c9910079",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "c145c160",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "c145c160",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "c145c160",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "c145c160",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "c145c160",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "4a221ac4",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "4a221ac4",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "4a221ac4",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "4a221ac4",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "d4749565",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "935e6b4d",
+        "tag_name": "KPR Express"
+    },
+    {
+        "property_id": "935e6b4d",
+        "tag_name": "Baru Renov"
+    },
+    {
+        "property_id": "38458401",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "38458401",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "38458401",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "38458401",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "38458401",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "bfe1ff77",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "bfe1ff77",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "729c26e2",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "e3725e9e",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "db56dfcc",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "c4db7c8b",
         "tag_name": "Semi Furnished"
     },
     {
-        "property_id": "00d4cada",
+        "property_id": "b9b3a510",
         "tag_name": "Dekat Akses Transportasi"
     },
     {
-        "property_id": "f2342d96",
-        "tag_name": "Bebas Banjir"
-    },
-    {
-        "property_id": "f2342d96",
-        "tag_name": "Dekat Akses Transportasi"
-    },
-    {
-        "property_id": "f2342d96",
+        "property_id": "b9b3a510",
         "tag_name": "Dekat Pusat Perbelanjaan"
     },
     {
-        "property_id": "f2342d96",
+        "property_id": "b9b3a510",
         "tag_name": "Dekat Sekolah"
     },
     {
-        "property_id": "3c2def59",
+        "property_id": "97e0e5fb",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "97e0e5fb",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "97e0e5fb",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "97e0e5fb",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "fb124bad",
+        "tag_name": "Semi Furnished"
+    },
+    {
+        "property_id": "fb124bad",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "fb124bad",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "9afef275",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "39baeef1",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "39baeef1",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "39baeef1",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "6af161bb",
+        "tag_name": "Unfurnished"
+    },
+    {
+        "property_id": "6af161bb",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "6af161bb",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "6af161bb",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "0c6d4816",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "0c6d4816",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "0c6d4816",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "0c6d4816",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "0c6d4816",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "9e0f3778",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "9e0f3778",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "9e0f3778",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "0ab6ab8c",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "0ab6ab8c",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "bd684a85",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "ed52d6cc",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "ed52d6cc",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "ed52d6cc",
+        "tag_name": "Dekat Landmark"
+    },
+    {
+        "property_id": "62331e89",
+        "tag_name": "Semi Furnished"
+    },
+    {
+        "property_id": "62331e89",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "1ffb7da6",
         "tag_name": "Bisa Nego"
     },
     {
-        "property_id": "3c2def59",
-        "tag_name": "Siap Huni"
-    },
-    {
-        "property_id": "3c2def59",
+        "property_id": "1ffb7da6",
         "tag_name": "Bebas Banjir"
     },
     {
-        "property_id": "3c2def59",
-        "tag_name": "Dekat Sekolah"
-    },
-    {
-        "property_id": "3c2def59",
-        "tag_name": "Dekat Landmark"
-    },
-    {
-        "property_id": "a2fe15f4",
-        "tag_name": "Dekat Landmark"
-    },
-    {
-        "property_id": "84b60ab6",
-        "tag_name": "Furnished"
-    },
-    {
-        "property_id": "84b60ab6",
+        "property_id": "1ffb7da6",
         "tag_name": "Dekat Akses Transportasi"
     },
     {
-        "property_id": "84b60ab6",
+        "property_id": "1ffb7da6",
+        "tag_name": "Cocok untuk kost"
+    },
+    {
+        "property_id": "1ffb7da6",
+        "tag_name": "Cocok untuk usaha"
+    },
+    {
+        "property_id": "8aeb9618",
+        "tag_name": "Unfurnished"
+    },
+    {
+        "property_id": "c1ce69c0",
         "tag_name": "Dekat Sekolah"
     },
     {
-        "property_id": "84b60ab6",
-        "tag_name": "Dekat Tempat Ibadah"
+        "property_id": "5e931ab0",
+        "tag_name": "Bisa Nego"
     },
     {
-        "property_id": "84b60ab6",
-        "tag_name": "Dekat Landmark"
+        "property_id": "5e931ab0",
+        "tag_name": "Bebas Banjir"
     },
     {
-        "property_id": "92586d00",
-        "tag_name": "Dekat Pusat Perbelanjaan"
-    },
-    {
-        "property_id": "92586d00",
-        "tag_name": "Dekat Sekolah"
-    },
-    {
-        "property_id": "a4cd33ba",
-        "tag_name": "Siap Huni"
-    },
-    {
-        "property_id": "76705992",
+        "property_id": "5e931ab0",
         "tag_name": "Dekat Akses Transportasi"
     },
     {
-        "property_id": "6fb9ca43",
-        "tag_name": "Dekat Pusat Perbelanjaan"
-    },
-    {
-        "property_id": "94ae1a8b",
-        "tag_name": "Dekat Akses Transportasi"
-    },
-    {
-        "property_id": "94ae1a8b",
+        "property_id": "5e931ab0",
         "tag_name": "Dekat Sekolah"
     },
     {
-        "property_id": "94ae1a8b",
+        "property_id": "5e931ab0",
         "tag_name": "Dekat Fasilitas Kesehatan"
     },
     {
-        "property_id": "94ae1a8b",
+        "property_id": "df01b998",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "2c4f4357",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "2c4f4357",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "2c4f4357",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "2c4f4357",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "2c4f4357",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "2c4f4357",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "0a9cd3b6",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "0a9cd3b6",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "0a9cd3b6",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "0a9cd3b6",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "f63cd620",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "f63cd620",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "f63cd620",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "f63cd620",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "f63cd620",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "f63cd620",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "96a1b1c9",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "96a1b1c9",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "96a1b1c9",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "830c6c86",
+        "tag_name": "Semi Furnished"
+    },
+    {
+        "property_id": "830c6c86",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "830c6c86",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "c6887d51",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "c6887d51",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "c6887d51",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "4178b199",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "4178b199",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "4178b199",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "4178b199",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "9c0ca831",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "9c0ca831",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "78337079",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "78337079",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "78337079",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "78337079",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "d2877536",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "d2877536",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "d2877536",
+        "tag_name": "Dekat Landmark"
+    },
+    {
+        "property_id": "ba3cdf0a",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "ba3cdf0a",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "ba3cdf0a",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "ba3cdf0a",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "ba3cdf0a",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "f3367875",
+        "tag_name": "Subsidi"
+    },
+    {
+        "property_id": "f3367875",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "f3367875",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "f3367875",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "f3367875",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "fc53535c",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "fc53535c",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "fc53535c",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "857889e8",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "857889e8",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "a99e1837",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "a99e1837",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "8864721b",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "8864721b",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "78c6aa18",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "78c6aa18",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "78c6aa18",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "78c6aa18",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "78c6aa18",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "0ad41ff1",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "0ad41ff1",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "0ad41ff1",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "e1941106",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "e1941106",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "90cc9bb8",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "90cc9bb8",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "90cc9bb8",
+        "tag_name": "Dekat Landmark"
+    },
+    {
+        "property_id": "a56d42dc",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "a56d42dc",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "e07fcf7f",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "e07fcf7f",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "e07fcf7f",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "87eee51a",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "bdc29f2a",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "1c1adae4",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "393128da",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "393128da",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "393128da",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "393128da",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "ad84a24f",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "ad84a24f",
+        "tag_name": "Cocok untuk usaha"
+    },
+    {
+        "property_id": "ad84a24f",
         "tag_name": "NJOP"
     },
     {
-        "property_id": "62132a13",
-        "tag_name": "Bebas Banjir"
-    },
-    {
-        "property_id": "62132a13",
-        "tag_name": "Dekat Akses Transportasi"
-    },
-    {
-        "property_id": "4ae2599e",
+        "property_id": "be2e0133",
         "tag_name": "Siap Huni"
     },
     {
-        "property_id": "5a2c25d9",
+        "property_id": "be2e0133",
         "tag_name": "Dekat Akses Transportasi"
     },
     {
-        "property_id": "5a2c25d9",
+        "property_id": "c38ea410",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "c38ea410",
+        "tag_name": "Baru Renov"
+    },
+    {
+        "property_id": "1a650b18",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "1a650b18",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "1a650b18",
         "tag_name": "Dekat Pusat Perbelanjaan"
     },
     {
-        "property_id": "5a2c25d9",
+        "property_id": "1a650b18",
         "tag_name": "Dekat Sekolah"
     },
     {
-        "property_id": "5a2c25d9",
+        "property_id": "1a650b18",
         "tag_name": "Dekat Fasilitas Kesehatan"
     },
     {
-        "property_id": "7bd10ba4",
-        "tag_name": "Dekat Sekolah"
+        "property_id": "e52a607d",
+        "tag_name": "Siap Huni"
     },
     {
-        "property_id": "3c5ac3c3",
+        "property_id": "e52a607d",
         "tag_name": "Dekat Akses Transportasi"
     },
     {
-        "property_id": "3c5ac3c3",
-        "tag_name": "Dekat Pusat Perbelanjaan"
-    },
-    {
-        "property_id": "3c5ac3c3",
-        "tag_name": "Dekat Landmark"
-    },
-    {
-        "property_id": "e11d6b6d",
-        "tag_name": "Dekat Akses Transportasi"
-    },
-    {
-        "property_id": "e11d6b6d",
-        "tag_name": "Dekat Pusat Perbelanjaan"
-    },
-    {
-        "property_id": "e11d6b6d",
-        "tag_name": "Dekat Sekolah"
-    },
-    {
-        "property_id": "e11d6b6d",
-        "tag_name": "Dekat Fasilitas Kesehatan"
-    },
-    {
-        "property_id": "e11d6b6d",
-        "tag_name": "Dekat Tempat Ibadah"
-    },
-    {
-        "property_id": "16e12267",
-        "tag_name": "Dekat Pusat Perbelanjaan"
-    },
-    {
-        "property_id": "5437bdf3",
+        "property_id": "db816c84",
         "tag_name": "Furnished"
     },
     {
-        "property_id": "5437bdf3",
+        "property_id": "db816c84",
         "tag_name": "Siap Huni"
     },
     {
-        "property_id": "5437bdf3",
+        "property_id": "db816c84",
         "tag_name": "Dekat Akses Transportasi"
     },
     {
-        "property_id": "eb3078aa",
+        "property_id": "ff7c7988",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "ff7c7988",
+        "tag_name": "Dekat Landmark"
+    },
+    {
+        "property_id": "c8779ef0",
+        "tag_name": "DP 0%"
+    },
+    {
+        "property_id": "c8779ef0",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "c8779ef0",
         "tag_name": "Bebas Banjir"
     },
     {
-        "property_id": "1ca90392",
+        "property_id": "c8779ef0",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "c8779ef0",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "c8779ef0",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "c8779ef0",
+        "tag_name": "Baru Dibangun"
+    },
+    {
+        "property_id": "1b8cb0b7",
+        "tag_name": "DP 0%"
+    },
+    {
+        "property_id": "1b8cb0b7",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "1b8cb0b7",
         "tag_name": "Bebas Banjir"
     },
     {
-        "property_id": "1af83cce",
+        "property_id": "1b8cb0b7",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "1b8cb0b7",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "1b8cb0b7",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "1b8cb0b7",
+        "tag_name": "Baru Dibangun"
+    },
+    {
+        "property_id": "3f4e0ade",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "715e5ea1",
+        "tag_name": "Semi Furnished"
+    },
+    {
+        "property_id": "715e5ea1",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "e51fd023",
         "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "26ffd112",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "26ffd112",
+        "tag_name": "Baru Dibangun"
+    },
+    {
+        "property_id": "702fd6a2",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "fade73f8",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "cf068b56",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "180e2ec0",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "00fcee28",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "00fcee28",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "00fcee28",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "d0198271",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "d0198271",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "d0198271",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "d0198271",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "d0198271",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "376435aa",
+        "tag_name": "Semi Furnished"
+    },
+    {
+        "property_id": "9b276526",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "0ee0b8cd",
+        "tag_name": "Subsidi"
+    },
+    {
+        "property_id": "1d7bade6",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "c55271fd",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "091ee249",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "7634ddae",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "7634ddae",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "46416388",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "46416388",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "b75ca8c6",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "b75ca8c6",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "df3b6055",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "460583dc",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "460583dc",
+        "tag_name": "Dekat Landmark"
+    },
+    {
+        "property_id": "39f1f3bb",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "39f1f3bb",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "0ec1e5a3",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "cbdd97db",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "04d5d3bf",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "0e64d6c3",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "0e64d6c3",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "0e64d6c3",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "0e64d6c3",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "0e64d6c3",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "57f5168a",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "57f5168a",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "877244b3",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "c2a70bf5",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "c2a70bf5",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "bbe0222e",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "bbe0222e",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "bbe0222e",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "41a6a67e",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "9f3a4cd4",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "5e47da62",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "5e47da62",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "5e47da62",
+        "tag_name": "Baru Dibangun"
+    },
+    {
+        "property_id": "a7cd2a80",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "a7cd2a80",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "a7cd2a80",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "d11f5a6a",
+        "tag_name": "Semi Furnished"
+    },
+    {
+        "property_id": "d11f5a6a",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "c0cdce16",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "c0cdce16",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "c0cdce16",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "c0cdce16",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "c0cdce16",
+        "tag_name": "Dekat Landmark"
+    },
+    {
+        "property_id": "eb64749d",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "eb64749d",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "eb64749d",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "eb64749d",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "4b8efcab",
+        "tag_name": "Dekat Landmark"
+    },
+    {
+        "property_id": "ff20ed37",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "ff20ed37",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "ff20ed37",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "ff20ed37",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "ff20ed37",
+        "tag_name": "Dekat Landmark"
+    },
+    {
+        "property_id": "c516daf4",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "c516daf4",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "0f52061e",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "16b70100",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "7f70ddaf",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "181c6478",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "181c6478",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "181c6478",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "181c6478",
+        "tag_name": "NJOP"
+    },
+    {
+        "property_id": "55f3e069",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "55f3e069",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "026f6df8",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "70b2e7f6",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "bf3b71b9",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "bf3b71b9",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "bf3b71b9",
+        "tag_name": "Dekat Landmark"
+    },
+    {
+        "property_id": "ddcdc475",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "ddcdc475",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "ddcdc475",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "ddcdc475",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "ddcdc475",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "51d5b93e",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "51d5b93e",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "51d5b93e",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "afe851c2",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "97f771c5",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "267915ee",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "f3f55fd2",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "28d40b2a",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "2efece6a",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "94cdcf74",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "7ecb88c7",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "dd017a20",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "1cfae945",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "1cfae945",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "8d2aaa57",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "8d2aaa57",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "cf965bd5",
+        "tag_name": "Unfurnished"
+    },
+    {
+        "property_id": "cf965bd5",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "cf965bd5",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "cf965bd5",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "972248d3",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "972248d3",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "972248d3",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "c0cbd49c",
+        "tag_name": "Semi Furnished"
+    },
+    {
+        "property_id": "c0cbd49c",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "c0cbd49c",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "c0cbd49c",
+        "tag_name": "Clean & Clear"
+    },
+    {
+        "property_id": "4a544ea4",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "4a544ea4",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "4a544ea4",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "4a544ea4",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "4a544ea4",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "46879313",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "29b4e566",
+        "tag_name": "Unfurnished"
+    },
+    {
+        "property_id": "7320af25",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "7320af25",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "81a1c851",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "a9b5ce56",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "a9b5ce56",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "a9b5ce56",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "7713fad8",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "7713fad8",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "d10af223",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "d10af223",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "d10af223",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "d3bb40ea",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "d3bb40ea",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "b66aaa9f",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "b66aaa9f",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "4bc4b638",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "4bc4b638",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "7842d37f",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "7842d37f",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "7842d37f",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "0b102caa",
+        "tag_name": "Semi Furnished"
+    },
+    {
+        "property_id": "0b102caa",
+        "tag_name": "NJOP"
+    },
+    {
+        "property_id": "da3b7b5d",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "f3e0639b",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "f3e0639b",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "f3e0639b",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "f3e0639b",
+        "tag_name": "Dekat Tempat Wisata"
+    },
+    {
+        "property_id": "e5c89d49",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "e5c89d49",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "e5c89d49",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "89bbc91e",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "89bbc91e",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "941f37d0",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "32ebbc66",
+        "tag_name": "Subsidi"
+    },
+    {
+        "property_id": "32ebbc66",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "32ebbc66",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "32ebbc66",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "32ebbc66",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "eb1484e0",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "eb1484e0",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "bf5ff304",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "bf5ff304",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "bf5ff304",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "ed30059b",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "ed30059b",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "ed30059b",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "f89b61ee",
+        "tag_name": "DP 0%"
+    },
+    {
+        "property_id": "f89b61ee",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "f89b61ee",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "f3dd603c",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "f3dd603c",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "f3dd603c",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "f3dd603c",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "217c5799",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "a913c232",
+        "tag_name": "Syariah"
+    },
+    {
+        "property_id": "a913c232",
+        "tag_name": "DP 0%"
+    },
+    {
+        "property_id": "a913c232",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "a913c232",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "a913c232",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "a913c232",
+        "tag_name": "Baru Dibangun"
+    },
+    {
+        "property_id": "f0c29b87",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "179fd232",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "439d5a2a",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "439d5a2a",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "439d5a2a",
+        "tag_name": "Dekat Landmark"
+    },
+    {
+        "property_id": "0b7fb915",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "0b7fb915",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "df9fd9d9",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "e40cb646",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "3ca478e3",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "3ca478e3",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "c8e7ff3a",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "c8e7ff3a",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "c8e7ff3a",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "95d3279c",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "95d3279c",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "95d3279c",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "d7cba984",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "d7cba984",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "d7cba984",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "90eabb63",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "90eabb63",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "f72f12ac",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "f72f12ac",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "f72f12ac",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "f72f12ac",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "f72f12ac",
+        "tag_name": "NJOP"
+    },
+    {
+        "property_id": "02afc55b",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "02afc55b",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "02afc55b",
+        "tag_name": "Dekat Landmark"
+    },
+    {
+        "property_id": "790cca60",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "d1f3ca79",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "d1f3ca79",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "ae9ffe53",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "ae9ffe53",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "ae9ffe53",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "ae9ffe53",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "ae9ffe53",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "ae9ffe53",
+        "tag_name": "Baru Renov"
+    },
+    {
+        "property_id": "a9f4a4b2",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "a9f4a4b2",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "a9f4a4b2",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "a9f4a4b2",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "a9f4a4b2",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "0ffbb590",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "0ffbb590",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "0ffbb590",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "0ffbb590",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "0ffbb590",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "d17b840c",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "d17b840c",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "d17b840c",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "063f3f73",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "063f3f73",
+        "tag_name": "Dekat Landmark"
+    },
+    {
+        "property_id": "a190f3f3",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "a190f3f3",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "a190f3f3",
+        "tag_name": "Dekat Landmark"
+    },
+    {
+        "property_id": "2c4b0db5",
+        "tag_name": "Unfurnished"
+    },
+    {
+        "property_id": "2c4b0db5",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "2c4b0db5",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "2c4b0db5",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "01ca0d94",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "01ca0d94",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "389729f4",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "389729f4",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "8749ccab",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "8749ccab",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "51847f79",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "51847f79",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "c81ce153",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "b9737cc4",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "b9737cc4",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "b9737cc4",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "b9737cc4",
+        "tag_name": "Dekat Tempat Wisata"
+    },
+    {
+        "property_id": "b9737cc4",
+        "tag_name": "Baru Renov"
+    },
+    {
+        "property_id": "af757166",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "af757166",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "243ae26f",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "243ae26f",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "6a8bed6d",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "6a8bed6d",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "6a8bed6d",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "529dfd90",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "12879c70",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "12879c70",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "12879c70",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "12879c70",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "be47909e",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "6fa5bd92",
+        "tag_name": "Unfurnished"
+    },
+    {
+        "property_id": "484c9e83",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "484c9e83",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "484c9e83",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "484c9e83",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "484c9e83",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "484c9e83",
+        "tag_name": "Cocok untuk usaha"
+    },
+    {
+        "property_id": "d52be358",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "d52be358",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "d52be358",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "d52be358",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "d52be358",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "8f7eadf0",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "7107bf0f",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "7107bf0f",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "7107bf0f",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "7107bf0f",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "7107bf0f",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "7107bf0f",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "7107bf0f",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "3abd2733",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "2c52a96f",
+        "tag_name": "Semi Furnished"
+    },
+    {
+        "property_id": "22521cb7",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "22521cb7",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "22521cb7",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "22521cb7",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "17a96b69",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "17a96b69",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "17a96b69",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "17a96b69",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "664ecb06",
+        "tag_name": "KPR Express"
+    },
+    {
+        "property_id": "1bf85fa2",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "1877ac4d",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "2dd84a0c",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "895cfba3",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "3f162f49",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "3f162f49",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "3f162f49",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "3f162f49",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "3f162f49",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "76e5d4fa",
+        "tag_name": "Semi Furnished"
+    },
+    {
+        "property_id": "76e5d4fa",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "76e5d4fa",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "76e5d4fa",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "76e5d4fa",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "76e5d4fa",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "89514c23",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "65335af3",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "70bba813",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "5674253b",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "5674253b",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "5674253b",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "5674253b",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "74632fcf",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "74632fcf",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "74632fcf",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "233e5d84",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "233e5d84",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "233e5d84",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "233e5d84",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "6e2dc69d",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "6e2dc69d",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "6e2dc69d",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "6e2dc69d",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "abadb064",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "c3ceaead",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "c3ceaead",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "95e7d0eb",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "95e7d0eb",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "728f6001",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "728f6001",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "728f6001",
+        "tag_name": "Dekat Landmark"
+    },
+    {
+        "property_id": "25958aa1",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "25958aa1",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "0ff4e915",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "0ff4e915",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "8a16ba66",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "8a16ba66",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "89dcc764",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "89dcc764",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "89dcc764",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "c0256dec",
+        "tag_name": "Cocok untuk kost"
+    },
+    {
+        "property_id": "c0256dec",
+        "tag_name": "Cocok untuk usaha"
+    },
+    {
+        "property_id": "17dfa97d",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "17dfa97d",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "17dfa97d",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "17dfa97d",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "93d63135",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "93d63135",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "93d63135",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "93d63135",
+        "tag_name": "Cocok untuk kost"
+    },
+    {
+        "property_id": "a220dc3b",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "a220dc3b",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "20025ad3",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "20025ad3",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "20025ad3",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "c76a981b",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "c76a981b",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "b3756d9e",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "b3756d9e",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "b3756d9e",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "b3756d9e",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "cbbc0c19",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "cbbc0c19",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "cbbc0c19",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "cbbc0c19",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "cbbc0c19",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "c0d3c132",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "c0d3c132",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "c0d3c132",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "c0d3c132",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "c0d3c132",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "c0d3c132",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "ac86bdc9",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "ac86bdc9",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "ac86bdc9",
+        "tag_name": "Baru Dibangun"
+    },
+    {
+        "property_id": "55fb6919",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "55fb6919",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "55fb6919",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "80b32224",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "80b32224",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "80b32224",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "f9335cf3",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "f9335cf3",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "28e0b6de",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "28e0b6de",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "e1a2bc08",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "1675c902",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "1675c902",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "1675c902",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "1b31fba7",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "f61e64f0",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "f61e64f0",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "f61e64f0",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "c427484e",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "c427484e",
+        "tag_name": "NJOP"
+    },
+    {
+        "property_id": "7410f76b",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "80be2088",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "d007e360",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "d007e360",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "d2310405",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "34f5520a",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "34f5520a",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "b31ec904",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "7b7765c4",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "7b7765c4",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "8871dce8",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "8871dce8",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "8871dce8",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "8871dce8",
+        "tag_name": "Baru Dibangun"
+    },
+    {
+        "property_id": "782c1c1b",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "782c1c1b",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "89ef6ec0",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "71eca7e2",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "d6d94df4",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "c3498ce4",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "8c564687",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "81642d29",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "05e57e4a",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "79cf0457",
+        "tag_name": "NJOP"
+    },
+    {
+        "property_id": "a48eb4ad",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "f8119727",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "ceff6634",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "946afa5c",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "d6434dcd",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "076a00bf",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "076a00bf",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "076a00bf",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "d3335eb1",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "6a955daf",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "6a955daf",
+        "tag_name": "NJOP"
+    },
+    {
+        "property_id": "7a5bf0ef",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "78c1a3ef",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "78c1a3ef",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "b822d53c",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "5922d089",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "5922d089",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "273396e7",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "9a7d9fa8",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "42e6a6b1",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "a5d1be38",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "ed4179c7",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "ed4179c7",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "ed4179c7",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "483e1954",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "483e1954",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "456fd835",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "456fd835",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "456fd835",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "456fd835",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "456fd835",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "23fab92d",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "5117b75f",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "d9318b20",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "8c7a1b98",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "66477fe9",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "84a20def",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "d19b86a4",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "d19b86a4",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "295ac6e9",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "295ac6e9",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "295ac6e9",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "3d6402a4",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "3d6402a4",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "4e882e54",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "4e882e54",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "f36fe629",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "f36fe629",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "f36fe629",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "d637ff93",
+        "tag_name": "Semi Furnished"
+    },
+    {
+        "property_id": "76021d37",
+        "tag_name": "Unfurnished"
+    },
+    {
+        "property_id": "76021d37",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "6936c88a",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "79b14361",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "79b14361",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "79b14361",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "05e47d41",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "05e47d41",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "05e47d41",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "05e47d41",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "803ce972",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "803ce972",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "803ce972",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "803ce972",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "9f68918f",
+        "tag_name": "Semi Furnished"
+    },
+    {
+        "property_id": "9f68918f",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "9f68918f",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "9f68918f",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "68c2c3d2",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "1d7142f5",
+        "tag_name": "Over Kredit"
+    },
+    {
+        "property_id": "1d7142f5",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "1d7142f5",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "1d7142f5",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "1d7142f5",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "1d7142f5",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "3c1bc725",
+        "tag_name": "Dekat Tebing Pantai Balangan"
+    },
+    {
+        "property_id": "ac276e93",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "ac276e93",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "fd2e1d2b",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "fd2e1d2b",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "490b7446",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "490b7446",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "6beb058e",
+        "tag_name": "Baru Renov"
+    },
+    {
+        "property_id": "3ca65ed1",
+        "tag_name": "Baru Renov"
+    },
+    {
+        "property_id": "206bf123",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "762882ca",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "762882ca",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "21f32593",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "21f32593",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "e7220d09",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "e7220d09",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "e7220d09",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "dd52b456",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "dd52b456",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "dd52b456",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "9cfeb627",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "9cfeb627",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "9cfeb627",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "cc3a3b7c",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "cc3a3b7c",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "cc3a3b7c",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "a8a7c7f7",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "a8a7c7f7",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "a6848904",
+        "tag_name": "NJOP"
+    },
+    {
+        "property_id": "502ac889",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "502ac889",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "502ac889",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "502ac889",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "e041d211",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "e041d211",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "e041d211",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "7e15edd4",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "7e15edd4",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "7e15edd4",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "3d432b2d",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "3d432b2d",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "3d432b2d",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "3d432b2d",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "cca1eaab",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "cca1eaab",
+        "tag_name": "Baru Renov"
+    },
+    {
+        "property_id": "8cfa53fa",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "c94b9964",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "c94b9964",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "3979c577",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "3979c577",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "6421eec2",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "6421eec2",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "6421eec2",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "6421eec2",
+        "tag_name": "Cocok untuk kost"
+    },
+    {
+        "property_id": "7ea7252b",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "7ea7252b",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "7ea7252b",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "7ea7252b",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "f56c2ece",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "a2b6b787",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "a2b6b787",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "a2b6b787",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "a2b6b787",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "d5b0a5cd",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "d5b0a5cd",
+        "tag_name": "Baru Renov"
+    },
+    {
+        "property_id": "594041c4",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "594041c4",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "594041c4",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "594041c4",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "beb1aee9",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "beb1aee9",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "753bc357",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "21fae254",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "348c0790",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "1656dc06",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "2c194cd5",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "a3ac442c",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "a3ac442c",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "a3ac442c",
+        "tag_name": "Dekat Landmark"
+    },
+    {
+        "property_id": "fa7ab395",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "fa7ab395",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "fa7ab395",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "fa7ab395",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "fa7ab395",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "0e2c9f04",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "bd5488f6",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "bd5488f6",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "bd5488f6",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "bd5488f6",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "bd5488f6",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "c09487e4",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "c09487e4",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "c09487e4",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "c09487e4",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "c09487e4",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "c09487e4",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "d4c0e554",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "d4c0e554",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "d4c0e554",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "d4c0e554",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "f30d100d",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "f30d100d",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "f30d100d",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "f30d100d",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "f30d100d",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "f30d100d",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "f30d100d",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "23746169",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "418da430",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "418da430",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "418da430",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "418da430",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "25257d47",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "fe1124dc",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "fe1124dc",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "fe1124dc",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "fe1124dc",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "fe1124dc",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "b3ab322d",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "e45fab4a",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "e45fab4a",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "e45fab4a",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "d0efc4af",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "de040069",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "de040069",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "de040069",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "de040069",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "de040069",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "f636571e",
+        "tag_name": "Semi Furnished"
+    },
+    {
+        "property_id": "f636571e",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "f636571e",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "f636571e",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "f636571e",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "f636571e",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "f636571e",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "862d6656",
+        "tag_name": "Semi Furnished"
+    },
+    {
+        "property_id": "764801c1",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "764801c1",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "764801c1",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "764801c1",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "764801c1",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "0fa59289",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "0fa59289",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "0fa59289",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "cc4b0707",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "11b083cd",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "11b083cd",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "85faec2c",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "85faec2c",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "85faec2c",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "85faec2c",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "85faec2c",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "502d7c0c",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "502d7c0c",
+        "tag_name": "Over Kredit"
+    },
+    {
+        "property_id": "502d7c0c",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "502d7c0c",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "502d7c0c",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "2dbc2c74",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "2dbc2c74",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "b2bb450f",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "7795ad7b",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "7795ad7b",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "7795ad7b",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "7795ad7b",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "7795ad7b",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "5bd4bbbe",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "1f27cf08",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "40a32800",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "40a32800",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "85395f56",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "85395f56",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "85395f56",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "f44838bc",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "f44838bc",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "f44838bc",
+        "tag_name": "Cocok untuk kost"
+    },
+    {
+        "property_id": "a46f7c6a",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "a46f7c6a",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "28268921",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "073dbcb7",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "073dbcb7",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "073dbcb7",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "073dbcb7",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "073dbcb7",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "073dbcb7",
+        "tag_name": "Cocok untuk usaha"
+    },
+    {
+        "property_id": "180499d5",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "180499d5",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "ca1f607b",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "1ffb4b0e",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "cd8cd913",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "cd8cd913",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "cd8cd913",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "cd8cd913",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "555cfad5",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "555cfad5",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "df020f1e",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "df020f1e",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "2c7283a5",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "2c7283a5",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "198cd168",
+        "tag_name": "Unfurnished"
+    },
+    {
+        "property_id": "198cd168",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "198cd168",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "198cd168",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "2d68aa72",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "2d68aa72",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "2d68aa72",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "38cd4719",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "38cd4719",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "38cd4719",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "0fde33cf",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "22fae27f",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "22fae27f",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "22fae27f",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "9c805f42",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "9c805f42",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "9c805f42",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "9c805f42",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "4eef0589",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "4eef0589",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "4eef0589",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "4eef0589",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "138c1d11",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "138c1d11",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "138c1d11",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "138c1d11",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "e4f68679",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "e4f68679",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "e4f68679",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "84f75c55",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "84f75c55",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "84f75c55",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "991a58c3",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "991a58c3",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "991a58c3",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "991a58c3",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "0e634379",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "0e634379",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "4fdb877c",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "4fdb877c",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "8bce73e6",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "8bce73e6",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "321662cd",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "321662cd",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "321662cd",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "321662cd",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "8af1c3c4",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "8af1c3c4",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "8af1c3c4",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "8af1c3c4",
+        "tag_name": "Baru Renov"
+    },
+    {
+        "property_id": "1d825c3b",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "1d825c3b",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "1d825c3b",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "3e23feed",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "bf105a9c",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "2c231ffb",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "697ff232",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "697ff232",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "697ff232",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "697ff232",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "2efbcab3",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "e8723964",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "e8723964",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "d0bf8b48",
+        "tag_name": "Dekat Landmark"
+    },
+    {
+        "property_id": "ecdc96df",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "ecdc96df",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "ecdc96df",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "ecdc96df",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "e116078b",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "e116078b",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "d309446a",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "d309446a",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "d309446a",
+        "tag_name": "Baru Dibangun"
+    },
+    {
+        "property_id": "79b5612a",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "79b5612a",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "79b5612a",
+        "tag_name": "Baru Dibangun"
+    },
+    {
+        "property_id": "49500182",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "49500182",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "49500182",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "49500182",
+        "tag_name": "Baru Dibangun"
+    },
+    {
+        "property_id": "aa89e504",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "aa89e504",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "aa89e504",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "aa89e504",
+        "tag_name": "Baru Dibangun"
+    },
+    {
+        "property_id": "ebeb9ede",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "ebeb9ede",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "ebeb9ede",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "ebeb9ede",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "ebeb9ede",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "ebeb9ede",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "db5f63ab",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "db5f63ab",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "94f274ee",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "94f274ee",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "94f274ee",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "aa928304",
+        "tag_name": "Clean & Clear"
+    },
+    {
+        "property_id": "aa928304",
+        "tag_name": "NJOP"
+    },
+    {
+        "property_id": "00663470",
+        "tag_name": "Dekat Tempat Ibadah"
+    },
+    {
+        "property_id": "4f03ef57",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "a33d268a",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "a33d268a",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "a33d268a",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "a33d268a",
+        "tag_name": "Dekat Landmark"
+    },
+    {
+        "property_id": "6f481b2a",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "6f481b2a",
+        "tag_name": "Dekat Tempat Wisata"
+    },
+    {
+        "property_id": "f6bd46e9",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "f6bd46e9",
+        "tag_name": "NJOP"
+    },
+    {
+        "property_id": "d649986a",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "9c45765c",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "0796742a",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "0796742a",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "1c7457d4",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "1c7457d4",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "1c7457d4",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "1c7457d4",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "1c7457d4",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "534b46ed",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "534b46ed",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "b72c3e11",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "1950a36e",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "1950a36e",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "8d66f920",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "8d66f920",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "0e6f532f",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "0e6f532f",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "39ec7203",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "eddb704c",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "553e3341",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "553e3341",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "19902637",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "19902637",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "9b559146",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "9b559146",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "9b559146",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "4b956d4c",
+        "tag_name": "Furnished"
+    },
+    {
+        "property_id": "4b956d4c",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "4b956d4c",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "4b956d4c",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "4b956d4c",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "1a6ba039",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "1a6ba039",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "1a6ba039",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "60f6f71f",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "60f6f71f",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "60f6f71f",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "60f6f71f",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "a593d22b",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "a593d22b",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "a593d22b",
+        "tag_name": "Dekat Fasilitas Kesehatan"
+    },
+    {
+        "property_id": "a593d22b",
+        "tag_name": "Baru Renov"
+    },
+    {
+        "property_id": "1ab5bade",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "1ab5bade",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "02512fdd",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "02512fdd",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "5adda7e0",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "dc8ca846",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "baf5bd92",
+        "tag_name": "Siap Huni"
+    },
+    {
+        "property_id": "baf5bd92",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "baf5bd92",
+        "tag_name": "Dekat Pusat Perbelanjaan"
+    },
+    {
+        "property_id": "baf5bd92",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "59d11c57",
+        "tag_name": "Bisa Nego"
+    },
+    {
+        "property_id": "59d11c57",
+        "tag_name": "Bebas Banjir"
+    },
+    {
+        "property_id": "59d11c57",
+        "tag_name": "Dekat Akses Transportasi"
+    },
+    {
+        "property_id": "59d11c57",
+        "tag_name": "Dekat Sekolah"
+    },
+    {
+        "property_id": "59d11c57",
+        "tag_name": "Cocok untuk kost"
+    },
+    {
+        "property_id": "6179df3d",
+        "tag_name": "Bisa Nego"
     }
 ]

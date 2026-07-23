@@ -1,0 +1,32 @@
+[
+    {
+        "category_name":"Apartemen"
+    },
+    {
+        "category_name":"Gudang"
+    },
+    {
+        "category_name":"Kantor"
+    },
+    {
+        "category_name":"Kost"
+    },
+    {
+        "category_name":"Ruang Usaha"
+    },
+    {
+        "category_name":"Ruko"
+    },
+    {
+        "category_name":"Rumah"
+    },
+    {
+        "category_name":"Tanah"
+    },
+    {
+        "category_name":"Unknown"
+    },
+    {
+        "category_name":"Villa"
+    }
+]
